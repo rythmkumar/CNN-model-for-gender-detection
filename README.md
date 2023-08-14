@@ -11,3 +11,6 @@ Step 3: Add flatten layer to the model and add Fully connected layer and a sigmo
 Step 4: Compile the model with optimizers adam and binary cross entropy loss <br>
 Step 5: Saving the model with name my_model.h5 <br>
 Upload the my_model.h5 in kaggle then load the model
+
+Kaggle notebook link
+https://www.kaggle.com/code/rythmkumar/notebookc4fe5915da
