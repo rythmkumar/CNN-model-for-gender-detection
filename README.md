@@ -10,3 +10,4 @@ Step 2: Create a CNN model with 4 conv2d layers and 4 maxpool layers<br>
 Step 3: Add flatten layer to the model and add Fully connected layer and a sigmoid function for binary classification <br>
 Step 4: Compile the model with optimizers adam and binary cross entropy loss <br>
 Step 5: Saving the model with name my_model.h5 <br>
+Upload the my_model.h5 in kaggle then load the model
