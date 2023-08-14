@@ -14,3 +14,5 @@ Upload the my_model.h5 in kaggle then load the model
 
 Kaggle notebook link
 https://www.kaggle.com/code/rythmkumar/notebookc4fe5915da
+
+References used Gender Classified Dataset with Masked Face on kaggle
